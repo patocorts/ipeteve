@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,***** ES | Espania *****
+
 http://nomorecable.xyz:80/k3streams/792817/0
 #EXTINF:0,ESP | #0
 http://nomorecable.xyz:80/k3streams/792817/119975
@@ -325,7 +325,7 @@ http://nomorecable.xyz:80/k3streams/792817/48661
 http://nomorecable.xyz:80/k3streams/792817/48721
 #EXTINF:0,ES | MOVISTAR LA LIGA HD
 http://nomorecable.xyz:80/k3streams/792817/48656
-#EXTINF:0,***** ES | Sports *****
+
 http://nomorecable.xyz:80/k3streams/792817/0
 #EXTINF:0,ES | MOVISTAR LA LIGA HD
 http://nomorecable.xyz:80/k3streams/792817/48656
@@ -347,8 +347,6 @@ http://nomorecable.xyz:80/k3streams/792817/114509
 http://nomorecable.xyz:80/k3streams/792817/114507
 #EXTINF:0,ES | LA LIGA TV BAR 1 FHD
 http://nomorecable.xyz:80/k3streams/792817/114508
-#EXTINF:0,***** BR | Brasil *****
-http://nomorecable.xyz:80/k3streams/792817/0
 #EXTINF:0,BR | A&E HD
 http://nomorecable.xyz:80/k3streams/792817/102154
 #EXTINF:0,BR | AMC HD
@@ -575,8 +573,6 @@ http://nomorecable.xyz:80/k3streams/792817/102279
 http://nomorecable.xyz:80/k3streams/792817/102280
 #EXTINF:0,BR | ZOOMOO HD
 http://nomorecable.xyz:80/k3streams/792817/102281
-#EXTINF:0,***** LA | Latin *****
-http://nomorecable.xyz:80/k3streams/792817/0
 #EXTINF:0,Latino | HBO SIGNATURE HD 1080P
 http://nomorecable.xyz:80/k3streams/792817/96187
 #EXTINF:0,Latino | HBO West HD 1080P
