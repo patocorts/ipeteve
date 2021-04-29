@@ -1,141 +1,123 @@
-#EXTM3U 
-#EXTINF: -1 group-title="Ungrouped", 24 Horas
-http://190.13.162.66:8081/play/a00q
-#EXTINF: -1 group-title="Ungrouped", AE Mundo
-http://190.13.162.66:8081/play/a01e
-#EXTINF: -1 group-title="Ungrouped", AXN
-http://190.13.162.66:8081/play/a00w
-#EXTINF: -1 group-title="Ungrouped", Animal Planet
-http://190.13.162.66:8081/play/a016
-#EXTINF: -1 group-title="Ungrouped", CDF Basico
-http://190.13.162.66:8081/play/a01d
-#EXTINF: -1 group-title="Ungrouped", CDF PREMIUM
-http://190.13.162.66:8081/play/a00g
-#EXTINF: -1 group-title="Ungrouped", CHV
-http://190.13.162.66:8081/play/a00d
-#EXTINF: -1 group-title="Ungrouped", CNN Chile
-http://190.13.162.66:8081/play/a01w
-#EXTINF: -1 group-title="Ungrouped", CNN Espanol
-http://190.13.162.66:8081/play/a009
-#EXTINF: -1 group-title="Ungrouped", Canal 13
-http://190.13.162.66:8081/play/a00e
-#EXTINF: -1 group-title="Ungrouped", Canal de Las estrellas
-http://190.13.162.66:8081/play/a01h
-#EXTINF: -1 group-title="Ungrouped", Cartoon Network
-http://190.13.162.66:8081/play/a01z
-#EXTINF: -1 group-title="Ungrouped", Cinecanal
-http://190.13.162.66:8081/play/a01p
-#EXTINF: -1 group-title="Ungrouped", Cinemax
-http://190.13.162.66:8081/play/a00u
-#EXTINF: -1 group-title="Ungrouped", Claro Cinema
-http://190.13.162.66:8081/play/a00z
-#EXTINF: -1 group-title="Ungrouped", Discovery Channel
-http://190.13.162.66:8081/play/a015
-#EXTINF: -1 group-title="Ungrouped", Discovery ID
-http://190.13.162.66:8081/play/a023
-#EXTINF: -1 group-title="Ungrouped", Discovery Kids
-http://190.13.162.66:8081/play/a008
-#EXTINF: -1 group-title="Ungrouped", Discovery Turbo
-http://190.13.162.66:8081/play/a011
-#EXTINF: -1 group-title="Ungrouped", Disney Channel
-http://190.13.162.66:8081/play/a014
-#EXTINF: -1 group-title="Ungrouped", Disney Jr
-http://190.13.162.66:8081/play/a00p
-#EXTINF: -1 group-title="Ungrouped", Disney XD
-http://190.13.162.66:8081/play/a01m
-#EXTINF: -1 group-title="Ungrouped", E Entertainment
-http://190.13.162.66:8081/play/a018
-#EXTINF: -1 group-title="Ungrouped", ESPN
-http://190.13.162.66:8081/play/a01a
-#EXTINF: -1 group-title="Ungrouped", ESPN 2
-http://190.13.162.66:8081/play/a00r
-#EXTINF: -1 group-title="Ungrouped", ESPN 3
-http://190.13.162.66:8081/play/a013
-#EXTINF: -1 group-title="Ungrouped", Esne TV
-http://190.13.162.66:8081/play/a012
-#EXTINF: -1 group-title="Ungrouped", FOX P ACTION
-http://190.13.162.66:8081/play/a00k
-#EXTINF: -1 group-title="Ungrouped", FOX P MOVIES
-http://190.13.162.66:8081/play/a00i
-#EXTINF: -1 group-title="Ungrouped", FOX P SERIES E
-http://190.13.162.66:8081/play/a00j
-#EXTINF: -1 group-title="Ungrouped", FX
-http://190.13.162.66:8081/play/a00y
-#EXTINF: -1 group-title="Ungrouped", FX Movies
-http://190.13.162.66:8081/play/a00f
-#EXTINF: -1 group-title="Ungrouped", Fox Channel
-http://190.13.162.66:8081/play/a01r
-#EXTINF: -1 group-title="Ungrouped", Fox Life
-http://190.13.162.66:8081/play/a01v
-#EXTINF: -1 group-title="Ungrouped", Fox Sports
-http://190.13.162.66:8081/play/a019
-#EXTINF: -1 group-title="Ungrouped", Fox Sports 1
-http://190.13.162.66:8081/play/a00h
-#EXTINF: -1 group-title="Ungrouped", Fox Sports 2
-http://190.13.162.66:8081/play/a01i
-#EXTINF: -1 group-title="Ungrouped", Fox Sports 3
-http://190.13.162.66:8081/play/a01j
-#EXTINF: -1 group-title="Ungrouped", GOL TV
-http://190.13.162.66:8081/play/a01b
-#EXTINF: -1 group-title="Ungrouped", HBO
-http://190.13.162.66:8081/play/a00t
-#EXTINF: -1 group-title="Ungrouped", HBO 2
-http://190.13.162.66:8081/play/a00l
-#EXTINF: -1 group-title="Ungrouped", HBO Family
-http://190.13.162.66:8081/play/a00o
-#EXTINF: -1 group-title="Ungrouped", HBO Plus
-http://190.13.162.66:8081/play/a00m
-#EXTINF: -1 group-title="Ungrouped", HBO XTREME SD
-http://190.13.162.66:8081/play/a00n
-#EXTINF: -1 group-title="Ungrouped", History Channel
-http://190.13.162.66:8081/play/a01o
-#EXTINF: -1 group-title="Ungrouped", Home and Health
-http://190.13.162.66:8081/play/a025
-#EXTINF: -1 group-title="Ungrouped", I-Sat
-http://190.13.162.66:8081/play/a01s
-#EXTINF: -1 group-title="Ungrouped", La Red
-http://190.13.162.66:8081/play/a00a
-#EXTINF: -1 group-title="Ungrouped", MTV
-http://190.13.162.66:8081/play/a01t
-#EXTINF: -1 group-title="Ungrouped", Mega
-http://190.13.162.66:8081/play/a00c
-#EXTINF: -1 group-title="Ungrouped", Nat Geo
-http://190.13.162.66:8081/play/a01n
-#EXTINF: -1 group-title="Ungrouped", NatGeo Kids
-http://190.13.162.66:8081/play/a01y
-#EXTINF: -1 group-title="Ungrouped", Nick Jr
-http://190.13.162.66:8081/play/a010
-#EXTINF: -1 group-title="Ungrouped", Nickelodeon
-http://190.13.162.66:8081/play/a01l
-#EXTINF: -1 group-title="Ungrouped", RCN Novelas
-http://190.13.162.66:8081/play/a022
-#EXTINF: -1 group-title="Ungrouped", Sony
-http://190.13.162.66:8081/play/a00v
-#EXTINF: -1 group-title="Ungrouped", Space
-http://190.13.162.66:8081/play/a00x
-#EXTINF: -1 group-title="Ungrouped", TBS
-http://190.13.162.66:8081/play/a024
-#EXTINF: -1 group-title="Ungrouped", TCM
-http://190.13.162.66:8081/play/a01x
-#EXTINF: -1 group-title="Ungrouped", TLC
-http://190.13.162.66:8081/play/a01f
-#EXTINF: -1 group-title="Ungrouped", TNT
-http://190.13.162.66:8081/play/a020
-#EXTINF: -1 group-title="Ungrouped", TVE
-http://190.13.162.66:8081/play/a021
-#EXTINF: -1 group-title="Ungrouped", TVEDUCA
-http://190.13.162.66:8081/play/a00s
-#EXTINF: -1 group-title="Ungrouped", TVN
-http://190.13.162.66:8081/play/a00b
-#EXTINF: -1 group-title="Ungrouped", Telemundo
-http://190.13.162.66:8081/play/a01k
-#EXTINF: -1 group-title="Ungrouped", TyC Sports
-http://190.13.162.66:8081/play/a01c
-#EXTINF: -1 group-title="Ungrouped", Universal
-http://190.13.162.66:8081/play/a01q
-#EXTINF: -1 group-title="Ungrouped", ViaX
-http://190.13.162.66:8081/play/a01g
-#EXTINF: -1 group-title="Ungrouped", Warner
-http://190.13.162.66:8081/play/a017
-#EXTINF: -1 group-title="Ungrouped", Zona Latina
-http://190.13.162.66:8081/play/a01u
+#EXTM3U
+#EXTINF:-1,##### |COLOMBIA| GENERAL #####
+http://rv.imax.re:80/9808895527/1313406202/87179
+#EXTINF:-1,|COLOMBIA| CARACOL
+http://rv.imax.re:80/9808895527/1313406202/87178
+#EXTINF:-1,|COLOMBIA| CARACOL HD2
+http://rv.imax.re:80/9808895527/1313406202/87177
+#EXTINF:-1,|COLOMBIA| CARACOL INTERNACIONAL
+http://rv.imax.re:80/9808895527/1313406202/87176
+#EXTINF:-1,|COLOMBIA| RCN
+http://rv.imax.re:80/9808895527/1313406202/87175
+#EXTINF:-1,|COLOMBIA| RCN HD2
+http://rv.imax.re:80/9808895527/1313406202/87174
+#EXTINF:-1,|COLOMBIA| RCN NOVELAS
+http://rv.imax.re:80/9808895527/1313406202/87173
+#EXTINF:-1,|COLOMBIA| WINSPORTS 1
+http://rv.imax.re:80/9808895527/1313406202/87149
+#EXTINF:-1,|COLOMBIA| WINSPORTS 2
+http://rv.imax.re:80/9808895527/1313406202/87148
+#EXTINF:-1,|COLOMBIA| WINSPORTS 3
+http://rv.imax.re:80/9808895527/1313406202/87147
+#EXTINF:-1,|COLOMBIA| WINSPORTS PLUS HD
+http://rv.imax.re:80/9808895527/1313406202/87146
+#EXTINF:-1,|COLOMBIA| DIRECTV SPORTS 1
+http://rv.imax.re:80/9808895527/1313406202/87145
+#EXTINF:-1,|COLOMBIA| DIRECTV SPORTS 2
+http://rv.imax.re:80/9808895527/1313406202/87144
+#EXTINF:-1,|COLOMBIA| DIRECTV SPORTS PLUS
+http://rv.imax.re:80/9808895527/1313406202/87143
+#EXTINF:-1,##### |ARGENTINA| GENERAL #####
+http://rv.imax.re:80/9808895527/1313406202/87126
+#EXTINF:-1,|ARGENTINA| TV PUBLICA
+http://rv.imax.re:80/9808895527/1313406202/87125
+#EXTINF:-1,|ARGENTINA| AMERICA TV
+http://rv.imax.re:80/9808895527/1313406202/87124
+#EXTINF:-1,|ARGENTINA| TELEFE
+http://rv.imax.re:80/9808895527/1313406202/87123
+#EXTINF:-1,|ARGENTINA| EL TRECE
+http://rv.imax.re:80/9808895527/1313406202/87122
+#EXTINF:-1,|ARGENTINA| ELNUEVE
+http://rv.imax.re:80/9808895527/1313406202/87121
+#EXTINF:-1,|ARGENTINA| ENCUENTRO
+http://rv.imax.re:80/9808895527/1313406202/87120
+#EXTINF:-1,|ARGENTINA| LN+
+http://rv.imax.re:80/9808895527/1313406202/87119
+#EXTINF:-1,|ARGENTINA| ARGENTINISIMA
+http://rv.imax.re:80/9808895527/1313406202/87118
+#EXTINF:-1,|ARGENTINA| CANAL DE LA CIUDAD
+http://rv.imax.re:80/9808895527/1313406202/87117
+#EXTINF:-1,|ARGENTINA| 13 MAX
+http://rv.imax.re:80/9808895527/1313406202/87116
+#EXTINF:-1,|ARGENTINA| CANAL 9 SALTA
+http://rv.imax.re:80/9808895527/1313406202/87115
+#EXTINF:-1,|ARGENTINA| CINE AR
+http://rv.imax.re:80/9808895527/1313406202/87114
+#EXTINF:-1,|ARGENTINA| NET TV
+http://rv.imax.re:80/9808895527/1313406202/87113
+#EXTINF:-1,|ARGENTINA| CRONICA
+http://rv.imax.re:80/9808895527/1313406202/87112
+#EXTINF:-1,|ARGENTINA| CANAL 4
+http://rv.imax.re:80/9808895527/1313406202/87111
+#EXTINF:-1,|ARGENTINA| TOP LATINO TV
+http://rv.imax.re:80/9808895527/1313406202/87110
+#EXTINF:-1,|ARGENTINA| TN
+http://rv.imax.re:80/9808895527/1313406202/87109
+#EXTINF:-1,|ARGENTINA| C5N
+http://rv.imax.re:80/9808895527/1313406202/87108
+#EXTINF:-1,|ARGENTINA| CANAL 26
+http://rv.imax.re:80/9808895527/1313406202/87107
+#EXTINF:-1,|ARGENTINA| A24
+http://rv.imax.re:80/9808895527/1313406202/87106
+#EXTINF:-1,|ARGENTINA| CN3 PIRAMAR
+http://rv.imax.re:80/9808895527/1313406202/87105
+#EXTINF:-1,|ARGENTINA| MUSIC TOP
+http://rv.imax.re:80/9808895527/1313406202/87104
+#EXTINF:-1,|ARGENTINA| PAKAPAKA
+http://rv.imax.re:80/9808895527/1313406202/87103
+#EXTINF:-1,|ARGENTINA| FOX SPORT
+http://rv.imax.re:80/9808895527/1313406202/87102
+#EXTINF:-1,|ARGENTINA| FOX SPORT 2
+http://rv.imax.re:80/9808895527/1313406202/87101
+#EXTINF:-1,|ARGENTINA| FOX SPORT 3
+http://rv.imax.re:80/9808895527/1313406202/87100
+#EXTINF:-1,|ARGENTINA| FOX SPORTS PREMIUM
+http://rv.imax.re:80/9808895527/1313406202/87099
+#EXTINF:-1,|ARGENTINA| TNT SPORT
+http://rv.imax.re:80/9808895527/1313406202/87098
+#EXTINF:-1,|ARGENTINA| DIRECT TV SPORTS
+http://rv.imax.re:80/9808895527/1313406202/87097
+#EXTINF:-1,|ARGENTINA| DIRECT TV SPORTS 2
+http://rv.imax.re:80/9808895527/1313406202/87096
+#EXTINF:-1,|ARGENTINA| DIRECT TV SPORTS PLUS
+http://rv.imax.re:80/9808895527/1313406202/87095
+#EXTINF:-1,|ARGENTINA| ESPN
+http://rv.imax.re:80/9808895527/1313406202/87094
+#EXTINF:-1,|ARGENTINA| ESPN 2
+http://rv.imax.re:80/9808895527/1313406202/87093
+#EXTINF:-1,|ARGENTINA| ESPN 3
+http://rv.imax.re:80/9808895527/1313406202/87092
+#EXTINF:-1,|ARGENTINA| ESPN+
+http://rv.imax.re:80/9808895527/1313406202/87091
+#EXTINF:-1,|ARGENTINA| TYC
+http://rv.imax.re:80/9808895527/1313406202/87090
+#EXTINF:-1,##### |URUGUAY| GENERAL #####
+http://rv.imax.re:80/9808895527/1313406202/87089
+#EXTINF:-1,|URUGUAY| TV CIUDAD
+http://rv.imax.re:80/9808895527/1313406202/87088
+#EXTINF:-1,|URUGUAY| CANAL 10
+http://rv.imax.re:80/9808895527/1313406202/87087
+#EXTINF:-1,|URUGUAY| TELE 12
+http://rv.imax.re:80/9808895527/1313406202/87086
+#EXTINF:-1,|URUGUAY| MONTECARLO TV
+http://rv.imax.re:80/9808895527/1313406202/87085
+#EXTINF:-1,|URUGUAY| TNU
+http://rv.imax.re:80/9808895527/1313406202/87084
+#EXTINF:-1,|URUGUAY| AV+
+http://rv.imax.re:80/9808895527/1313406202/87083
+#EXTINF:-1,|URUGUAY| CHARRUA TV
+http://rv.imax.re:80/9808895527/1313406202/87082
+#EXTINF:-1,|URUGUAY| VTV HD
+http://rv.imax.re:80/9808895527/1313406202/87081
+#EXTINF:-1,|URUGUAY| VTV+
+http://rv.imax.re:80/9808895527/1313406202/87080
